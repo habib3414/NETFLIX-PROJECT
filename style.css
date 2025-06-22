@@ -1,0 +1,206 @@
+
+html {
+    background-color: rgb(0, 0, 0);
+}
+h3 {
+    color: rgb(255, 255, 255);
+}
+h1 {
+    color: rgb(255, 255, 255);
+}
+h2 {
+    color: rgb(255, 255, 255);
+}
+p {
+    color: rgb(255, 255, 255);
+}
+.home {
+    color: red;
+}
+.lang {
+    position: absolute;
+    top: 0;
+    right: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;  
+    line-height: normal;      
+    padding-top: 0;
+    padding-bottom: 0;
+    color: white;
+    border: 1px solid white;
+    width: 80px;
+    height: 35px;
+    text-align: center;
+    border-radius: 5px;
+    background-color: black;
+}
+.boxsign-in {
+    background-color: red ;
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 90%;
+    display: flex;
+    align-items: center;
+    justify-content: center;  
+    line-height: normal;      
+    padding-top: 0;
+    padding-bottom: 0;
+    color: white;
+    border-radius: 4px;
+    width: 80px;
+    height: 35px;
+    text-align: center;
+}
+.netflix-logo {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 10px;
+    font-size: 2rem;
+    font-weight: bold;
+    border-radius: 4px;
+}
+.heading {
+    display: flex;
+    justify-content: center;   
+    align-items: center;       
+    min-height: 10vh;
+    font-size: 60px         
+}
+.inform {
+    display: flex;
+    justify-content: center;
+    min-height: 0vh;
+    align-items: center; 
+    font-size: 30px;
+}
+.noon {
+    display: flex;
+    justify-content: center;
+}
+.email-box {
+    position: absolute;
+    height: 40px;
+    width: 15%;
+    left: 37%;
+    border: 3px solid white;
+    background-color: gray;
+    text-align: left;
+}
+.get-started-btn {
+    display: inline-flex;
+    align-items: center;
+    background-color: #e50914;
+    color: #fff;
+    font-size: 1.2rem;
+    font-weight: bold;
+    padding: 12px 32px;
+    border: none;
+    border-radius: 4px;
+    text-decoration: none;
+    cursor: pointer;
+    transition: background 0.2s;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+    
+}
+.get-started-btn:hover {
+    background-color: #f40612;
+}
+.arrow {
+    font-size: 1.5em;
+    margin-left: 10px;
+}
+.heading-dom {
+    font-size: 40px;
+    
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 4px;
+    width: 65%;    
+    height: 400px;  
+
+}
+.reasons {
+    font-size: 40px;
+}
+.container-one {
+    position: absolute;
+    left: 15%;
+    bottom: 3px;
+    width: 300px;
+    padding: 24px 16px 128px;
+    background: linear-gradient(135deg, #23243a 0%, #1a1625 100%);
+    border-radius: 20px;
+    box-shadow: 0 4px 24px rgba(0,0,0,0.5);
+    color: #fff;
+    font-family: Arial, sans-serif;
+    margin: -16px 0px 0px;
+    position: relative;
+    font-size: 22px;
+}
+.heading-3{
+    font-size: 36px;
+}
+.container-two {
+    position: absolute;
+    left: 30%;
+    bottom: 381px;
+    width: 300px;
+    padding: 1px 16px 128px;
+    background: linear-gradient(135deg, #23243a 0%, #1a1625 100%);
+    border-radius: 20px;
+    box-shadow: 0 4px 24px rgba(0,0,0,0.5);
+    color: #fff;
+    font-family: Arial, sans-serif;
+    margin: -16px 0px 0px;
+    position: relative;
+    font-size: 22px;
+}
+.heading-4{
+    font-size: 30px;
+}
+.container-three {
+    position: absolute;
+    left: 45%;
+    bottom: 760px;
+    width: 300px;
+    padding: 1px 16px 128px;
+    background: linear-gradient(135deg, #23243a 0%, #1a1625 100%);
+    border-radius: 20px;
+    box-shadow: 0 4px 24px rgba(0,0,0,0.5);
+    color: #fff;
+    font-family: Arial, sans-serif;
+    margin: -16px 0px 0px;
+    position: relative;
+    font-size: 22px;
+}
+.heading-5{
+    font-size: 37px;
+}
+.container-forth {
+    position: absolute;
+    left: 60%;
+    bottom: 1130px;
+    width: 300px;
+    padding: 1px 16px 128px;
+    background: linear-gradient(135deg, #23243a 0%, #1a1625 100%);
+    border-radius: 20px;
+    box-shadow: 0 4px 24px rgba(0,0,0,0.5);
+    color: #fff;
+    font-family: Arial, sans-serif;
+    margin: -16px 0px 0px;
+    position: relative;
+    font-size: 22px;
+}
+.heading-6{
+    font-size: 31px;
+}
+.upper-box {
+    background-image: url(zjgs096khv591.jpg);
+    height: 380px;
+}
